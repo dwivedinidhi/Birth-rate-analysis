@@ -1,6 +1,6 @@
 # Birth Rate Prediction System 📊
 
-**Final Year Major Project** - Machine Learning Based Forecasting System with Conversational AI Assistant
+ - Machine Learning Based Forecasting System with Conversational AI Assistant
 
 ## 🎯 Project Overview
 
